@@ -1,1 +1,1 @@
-# Intelligent Badminton Insights:  A Dual Approach to Shot Analysis and Team Dependency
+# Intelligent Badminton Insights:  Tracking, Detection, and Shot Classification in Singles Badminton
